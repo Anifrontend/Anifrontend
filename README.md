@@ -1,16 +1,27 @@
-## Hi there 👋
+ # Hi, I'm Aniket Gupta 👋
 
-<!--
-**Anifrontend/Anifrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 MCA Student at CSJMU  
+🚀 Future Software Developer | Full-Stack | Problem Solver  
+💻 Currently focused on DSA, React, and real-world web projects
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- HTML, CSS, JavaScript
+- React.js (learning)
+- Git & GitHub
+- Currently learning Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Portfolio Website
+- Weather App (JS)
+- Calculator App
+- QR Code Generator
+- Quiz App
+- Live Character Counter (Coming soon...)
+
+## 📈 My Dev Goals (2025)
+- Get placed off-campus job
+- Build strong GitHub profile & resume
+- Master full-stack development
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/aniket-gupta-8452ab258/)
