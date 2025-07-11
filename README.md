@@ -9,17 +9,18 @@
 - React.js (learning)
 - Git & GitHub
 - Currently learning Data Structures
-
+- Learning Prompt Engineering
+  
 ## 📌 Projects
 - Portfolio Website
 - Weather App (JS)
 - Calculator App
 - QR Code Generator
 - Quiz App
-- Live Character Counter (Coming soon...)
+- Live Character Counter
 
 ## 📈 My Dev Goals (2025)
-- Get placed off-campus job
+- Get placed off/on-campus job
 - Build strong GitHub profile & resume
 - Master full-stack development
 
